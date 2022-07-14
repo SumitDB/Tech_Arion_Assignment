@@ -1,0 +1,16 @@
+1)	 Change all the city names and description to dynamic values in the given template.(for home page) 
+https://drive.google.com/file/d/1dyYOU-BA3mHkPyjqjzhlzTcv2xEBtt8N/view
+ 
+(Click on the link and download template)
+ 
+2)	Create a Model Profile – with given fields(Name, Date of birth, gender,phone number  and also create user address model-with given fields owner=FK(Profile), address1, address2, pincode
+
+
+3)	Attach the profile to the Django Auth and create User Register and Login  
+
+4)	Write CRUD views to create, update and delete the details of a Person Profile
+
+5)write an api to get list of profiles with address and should be able to search with Name, phone number
+
+6) Use DRF to create Rest Apis and perform CRUD on above defined profile model
+
